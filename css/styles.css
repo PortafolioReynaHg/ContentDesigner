@@ -7722,10 +7722,10 @@ textarea.form-control-lg {
   color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
 }
 
-.text-secondary {
+/*.text-secondary {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity)) !important;
-}
+}*/
 
 .text-success {
   --bs-text-opacity: 1;
@@ -11304,8 +11304,8 @@ html {
   font-size: 3rem;
 }
 .content-section-heading h3, .content-section-heading .h3 {
-  font-size: 1rem;
-  text-transform: uppercase;
+    font-size: 1.25rem;
+    font-weight: 300;
 }
 
 .text-faded {
